@@ -1,0 +1,9 @@
+node_modules/
+.env
+
+# Keep the uploads folder structure but ignore actual uploaded files
+uploads/*
+!uploads/.gitkeep
+
+.DS_Store
+*.log
